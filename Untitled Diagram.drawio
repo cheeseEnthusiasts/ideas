@@ -1,20 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T15:41:49.890Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MrHf2KDo76_nDPUA-Q4c" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T20:38:45.960Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="r0RF2GbUxPauPm0ItFPS" version="21.7.4" type="github">
   <diagram name="Page-1" id="nUbuY328vkLbe_oYi32c">
-    <mxGraphModel dx="814" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="603" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N42RTSC_KTIaGwHTtDHc-1" value="WanderingMonument" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry width="150" height="20" as="geometry" />
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-1" value="WanderingMonument" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N42RTSC_KTIaGwHTtDHc-2" value="MopNop" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="150" width="150" height="20" as="geometry" />
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-2" value="MopNop" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N42RTSC_KTIaGwHTtDHc-3" value="doctor-one1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="300" width="150" height="20" as="geometry" />
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-3" value="doctor-one1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Verdana;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N42RTSC_KTIaGwHTtDHc-4" value="minecraft117" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="450" width="150" height="20" as="geometry" />
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-4" value="minecraft117" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Verdana;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-5" value="exterior sources" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="650" y="30" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="750" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-9" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Wyatt H:&lt;/b&gt; &quot;So its a first person mouse, basically its a huge house (3d house) there&#39;s gonna be objects placed around that are going to allow you to get to higher areas. You get 25 seconds to go explore around the house and get to a good spot, and after those 25 seconds, ten cats will be released (not really ai, they just know where you are)&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fontSize=10;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="665" y="113" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.8;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;" edge="1" parent="1" target="N42RTSC_KTIaGwHTtDHc-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="420" as="sourcePoint" />
+            <mxPoint x="700" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.599;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Verdana;" edge="1" parent="1" source="N42RTSC_KTIaGwHTtDHc-7" target="N42RTSC_KTIaGwHTtDHc-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="70" as="sourcePoint" />
+            <mxPoint x="510" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.599;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Verdana;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="419" as="sourcePoint" />
+            <mxPoint x="200" y="49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.599;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Verdana;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349" y="420" as="sourcePoint" />
+            <mxPoint x="350" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-28" value="Thoughts" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="65" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-29" value="Thoughts" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="215" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-30" value="Thoughts" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="365" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-31" value="Thoughts" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="515" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-32" value="Thoughts" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="665" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="rouge-like(ish)" linkTarget="_blank" link="https://github.com/cheeseEnthusiasts/ideas/blob/main/rouge-like(ish).drawio" id="N42RTSC_KTIaGwHTtDHc-33">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;fontFamily=Verdana;" vertex="1" parent="1">
+            <mxGeometry x="55" y="113" width="140" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-37" value="IDEAS:" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="65" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-38" value="IDEAS:" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="215" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-39" value="IDEAS:" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="365" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-40" value="IDEAS:" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="515" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-41" value="IDEAS:" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="665" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N42RTSC_KTIaGwHTtDHc-29" target="N42RTSC_KTIaGwHTtDHc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-43" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-44" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-45" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-46" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N42RTSC_KTIaGwHTtDHc-47" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="460" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
