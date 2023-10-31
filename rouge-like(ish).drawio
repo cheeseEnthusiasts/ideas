@@ -1,32 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T22:17:54.337Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CgHJk66d2VEQFTQMkneJ" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T22:49:03.203Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pnHPsjXDEBQa_4jvlP-K" version="22.0.8" type="github">
   <diagram name="Page-1" id="UqBkJizWmmfB_0PGB-_P">
-    <mxGraphModel dx="543" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dO8svos2LEMkDAMB7f7Z-1" value="Rouge-like(ish)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontStyle=1;labelBorderColor=default;labelBackgroundColor=default;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dO8svos2LEMkDAMB7f7Z-1" value="Rouge-like(ish)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontStyle=1;labelBorderColor=default;labelBackgroundColor=default;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dO8svos2LEMkDAMB7f7Z-2" value="What is it?" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="dO8svos2LEMkDAMB7f7Z-2" value="What is it?" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="610" y="10" width="140" height="30" as="geometry">
             <mxRectangle x="610" y="10" width="230" height="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dO8svos2LEMkDAMB7f7Z-6" value="The idea is to make a dungeon crawler rouge-like(ish) game, with run-persistent levels, randomly generated maps(ill handle this, it cant be too hard), class specific weapons, gear, upgrades, and other such rouge-like(ish) things." style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="dO8svos2LEMkDAMB7f7Z-2">
+        <mxCell id="dO8svos2LEMkDAMB7f7Z-6" value="The idea is to make a dungeon crawler rouge-like(ish) game, with run-persistent levels, randomly generated maps(ill handle this, it cant be too hard), class specific weapons, gear, upgrades, and other such rouge-like(ish) things." style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="dO8svos2LEMkDAMB7f7Z-2" vertex="1">
           <mxGeometry x="10" y="30" width="115" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dO8svos2LEMkDAMB7f7Z-7" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;The players main objective would be to get as far into the dungeon as possible, and along the way the player would encounter bosses and other dangers inside of this dungeon.&lt;br&gt;They would also get the option to receive an upgrade after each level (thus adding the most important rouge-like element&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="dO8svos2LEMkDAMB7f7Z-2">
+        <mxCell id="dO8svos2LEMkDAMB7f7Z-7" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;The players main objective would be to get as far into the dungeon as possible, and along the way the player would encounter bosses and other dangers inside of this dungeon.&lt;br&gt;They would also get the option to receive an upgrade after each level (thus adding the most important rouge-like element&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="dO8svos2LEMkDAMB7f7Z-2" vertex="1">
           <mxGeometry x="110" y="110" width="115" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dO8svos2LEMkDAMB7f7Z-9" value="Replayablility" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="80" width="150" height="130" as="geometry">
-            <mxRectangle x="70" y="160" width="140" height="30" as="alternateBounds" />
+        <mxCell id="dO8svos2LEMkDAMB7f7Z-9" value="Replayability" style="swimlane;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="15" y="80" width="150" height="240" as="geometry">
+            <mxRectangle x="15" y="80" width="155" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dO8svos2LEMkDAMB7f7Z-12" value="Replayablility" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="220" width="150" height="130" as="geometry">
-            <mxRectangle x="70" y="160" width="140" height="30" as="alternateBounds" />
+        <mxCell id="j2PbD-3YE8Rhm5KDEGp--5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;The game should have a large amount of replayability, taking into consideration the following&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="dO8svos2LEMkDAMB7f7Z-9">
+          <mxGeometry y="25" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j2PbD-3YE8Rhm5KDEGp--7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;strokeWidth=1;endWidth=11.851851851851853;endSize=4.019753086419754;width=7.654320987654321;" edge="1" parent="dO8svos2LEMkDAMB7f7Z-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="80" as="sourcePoint" />
+            <mxPoint x="15" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j2PbD-3YE8Rhm5KDEGp--8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Replayability elements&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dO8svos2LEMkDAMB7f7Z-9">
+          <mxGeometry x="7.5" y="120" width="132.5" height="120" as="geometry">
+            <mxRectangle x="7.5" y="120" width="135" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j2PbD-3YE8Rhm5KDEGp--9" value="Generated floors" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="j2PbD-3YE8Rhm5KDEGp--8">
+          <mxGeometry y="30" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2PbD-3YE8Rhm5KDEGp--10" value="Multiple classes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="j2PbD-3YE8Rhm5KDEGp--8">
+          <mxGeometry y="60" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2PbD-3YE8Rhm5KDEGp--11" value="Run persistent upgrades" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="j2PbD-3YE8Rhm5KDEGp--8">
+          <mxGeometry y="90" width="132.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
