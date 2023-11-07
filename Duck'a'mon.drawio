@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T22:14:25.745Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="S6jPPBW-kQip0ziv5p6O" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T23:10:48.266Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9uuhZtv1knMpfpOd7_IJ" version="22.0.8" type="github">
   <diagram name="Page-1" id="zmsAA1IwOfnFMYAsX0Bf">
     <mxGraphModel dx="880" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,10 @@
           <mxGeometry x="50" y="70" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52o2Xvia3wrgC5a7eTlV-2" value="Pokemon except with elemental ducks. Evil elemental ducks need to be defeated. Resources can be collected, along with duck&#39;a&#39;ball&#39;s. Duck&#39;a&#39;mon example would be a Fire duck, Water duck, Ice duck, Vine duck, Shadow duck (evil), Void duck (evil), something-somthing duck. Really just any thing." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="130" width="540" height="330" as="geometry" />
+          <mxGeometry x="50" y="130" width="270" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXPZo4tMVLVNYDB8_Ca-2" value="&lt;ul&gt;&lt;li&gt;First person&lt;/li&gt;&lt;li&gt;Npcs&lt;br&gt;&lt;/li&gt;&lt;li&gt;Collectables&lt;/li&gt;&lt;li&gt;Resources&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="270" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
